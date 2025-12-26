@@ -22,7 +22,7 @@ print("c:",c)
 d = False + 9
 print("d:",d)
 ```
-
+.
 ## Output
 <img width="782" height="289" alt="image" src="https://github.com/user-attachments/assets/b4905687-881c-47bd-b37f-0152ecd47eda" />
 
